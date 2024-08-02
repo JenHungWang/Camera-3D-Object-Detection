@@ -1,0 +1,3 @@
+[console_scripts]
+yolo_detect_3d = yolov5_ros2.yolo_detect_3d:main
+

@@ -1,0 +1,54 @@
+[0.591s] Invoking command in '/home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros': PS1=(ma_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/yolov5_ros2 build --build-base /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build install --prefix /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2 --record /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/install.log --single-version-externally-managed
+[0.728s] running egg_info
+[0.728s] creating build/yolov5_ros2/yolov5_ros2.egg-info
+[0.728s] writing build/yolov5_ros2/yolov5_ros2.egg-info/PKG-INFO
+[0.728s] writing dependency_links to build/yolov5_ros2/yolov5_ros2.egg-info/dependency_links.txt
+[0.728s] writing entry points to build/yolov5_ros2/yolov5_ros2.egg-info/entry_points.txt
+[0.728s] writing requirements to build/yolov5_ros2/yolov5_ros2.egg-info/requires.txt
+[0.729s] writing top-level names to build/yolov5_ros2/yolov5_ros2.egg-info/top_level.txt
+[0.743s] writing manifest file 'build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[0.762s] reading manifest file 'build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[0.763s] writing manifest file 'build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[0.763s] running build
+[0.763s] running build_py
+[0.763s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build
+[0.763s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib
+[0.763s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2
+[0.763s] copying yolov5_ros2/__init__.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2
+[0.763s] copying yolov5_ros2/cv_tool.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2
+[0.763s] copying yolov5_ros2/yolo_detect_3d.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2
+[0.763s] copying yolov5_ros2/global_settings.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2
+[0.764s] running install
+[0.764s] running install_lib
+[0.765s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2
+[0.765s] copying /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2/__init__.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2
+[0.765s] copying /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2/cv_tool.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2
+[0.765s] copying /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2/yolo_detect_3d.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2
+[0.765s] copying /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build/lib/yolov5_ros2/global_settings.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2
+[0.765s] byte-compiling /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2/__init__.py to __init__.cpython-38.pyc
+[0.766s] byte-compiling /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2/cv_tool.py to cv_tool.cpython-38.pyc
+[0.767s] byte-compiling /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2/yolo_detect_3d.py to yolo_detect_3d.cpython-38.pyc
+[0.768s] byte-compiling /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2/global_settings.py to global_settings.cpython-38.pyc
+[0.768s] running install_data
+[0.768s] copying package.xml -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2
+[0.768s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/launch
+[0.769s] copying launch/yolov5_ros2.launch.py -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/launch
+[0.769s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.769s] copying config/custom_yolov5s6.pt -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.786s] copying config/config_inference.ini -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.786s] copying config/config_ros.ini -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.786s] copying config/custom_yolov5n6.pt -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.792s] copying config/config_obj_points.ini -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.792s] copying config/custom_yolov5l6.pt -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.893s] copying config/camera_info.yaml -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.893s] copying config/config_bbox.ini -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.893s] copying config/custom_yolov5m6.pt -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[0.952s] copying config/custom_yolov5x6.pt -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/config
+[1.137s] creating /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/resource
+[1.137s] copying resource/yolov5_ros2 -> /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/share/yolov5_ros2/resource
+[1.137s] running install_egg_info
+[1.138s] Copying build/yolov5_ros2/yolov5_ros2.egg-info to /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages/yolov5_ros2-0.0.0-py3.8.egg-info
+[1.139s] running install_scripts
+[1.149s] Installing yolo_detect_3d script to /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/yolov5_ros2
+[1.149s] writing list of installed files to '/home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/install.log'
+[1.163s] Invoked command in '/home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros' returned '0': PS1=(ma_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/yolov5_ros2 build --build-base /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/build install --prefix /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/install/yolov5_ros2 --record /home/jenhung/Documents/Repo/camera3dobjectdetection/camera3d_ros/build/yolov5_ros2/install.log --single-version-externally-managed
