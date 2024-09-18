@@ -57,6 +57,6 @@ ros2 run yolov5_ros2 yolo_detect_3d
 ```
 
 ## **Contribution**
-[1] Wang, J-H. (2023). *Monocular Camera-Based Object Detection and 6D Pose Estimation for Autonomous Racing* [Unpublished Master's Thesis, Technical University of Munich]
+[1] Wang, J-H., Ziegler, D., Lienkamp, M. (2023). *Monocular Camera-Based Object Detection and 6D Pose Estimation for Autonomous Racing* [Master's Thesis, Technical University of Munich]
 
 Contact: [Jen-Hung Wang](jenhung.wang@tum.de)
