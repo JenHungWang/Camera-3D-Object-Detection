@@ -56,7 +56,9 @@ source install/setup.bash
 ros2 run yolov5_ros2 yolo_detect_3d
 ```
 
-## **Contribution**
+## **Contributions**
 [1] Wang, J-H., Ziegler, D., Lienkamp, M. (2023). *Monocular Camera-Based Object Detection and 6D Pose Estimation for Autonomous Racing* [Master's Thesis, Technical University of Munich]
 
-Contact: [Jen-Hung Wang](jenhung.wang@tum.de)
+----
+
+### Contact: [Jen-Hung Wang](jenhung.wang@tum.de)
